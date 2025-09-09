@@ -48,8 +48,9 @@ Hi there
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasrinhakkim960-create&show_icons=true&locale=en&layout=compact" alt="nasrinhakkim960-create" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasrinhakkim960-create&show_icons=true&locale=en" alt="nasrinhakkim960-create" /></p>
-
+https://github-readme-stats.vercel.app/api?username=nasrinhakkim960-create&show_icons=true
 **nasrinhakkim960-create/nasrinhakkim960-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://github-readme-stats.vercel.app/api?username=nasrinhakkim960-create&hide=contribs,prs)
 
 Here are some ideas to get you started:
 I'm Nasrin Hakkim and I’m a student on cse with ai and machine learning .I'm interested in coding but no knowledge on it.
